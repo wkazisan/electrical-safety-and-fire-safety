@@ -40,3 +40,34 @@ This is the foundation for factory work, ABC Electrician License, and compliance
 
 ## Status
 Learning and documenting step by step.
+
+electrical-safety-and-fire-safety/
+
+├─ safety/
+
+│  ├─ PPE.md
+
+│  ├─ electric-shock.md
+
+│  └─ LOTO-basic.md
+
+├─ fire-safety/
+
+│  ├─ fire-causes.md
+
+│  └─ extinguisher-CO2-DCP.md
+
+├─ wiring-earthing/
+
+│  ├─ basic-wiring.md
+
+│  └─ earthing-types.md
+
+├─ abc-license/
+
+│  ├─ exam-notes.md
+
+│  └─ sample-questions.md
+
+└─ README.md
+
